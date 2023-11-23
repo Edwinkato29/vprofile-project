@@ -3433,7 +3433,7 @@
       &lt;password&gt;${NEXUS_PASS}&lt;/password&gt;
     &lt;/server&gt;
     &lt;server&gt;
-      &lt;id&gt;${RELEASE-REPO}&lt;/id&gt;
+      &lt;id&gt;${RELEASE_REPO}&lt;/id&gt;
       &lt;username&gt;${NEXUS_USER}&lt;/username&gt;
       &lt;password&gt;${NEXUS_PASS}&lt;/password&gt;
     &lt;/server&gt;
